@@ -1,0 +1,14 @@
+{
+    "header": {
+        "component": "header",
+        "props": {
+            "text": "Header 1"
+        }
+    } ,
+    "header2": {
+        "component": "header",
+        "props": {
+            "text": "Header 2"
+        }
+    }
+}

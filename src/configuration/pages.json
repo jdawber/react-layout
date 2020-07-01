@@ -1,0 +1,11 @@
+{
+    "page1": {
+        "layoutId": "layout1",
+        "slots": {
+            "header": ["header", "header", "header"],
+            "content": [],
+            "footer": ["header2"]
+        }
+    
+    }
+}

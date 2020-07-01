@@ -1,0 +1,15 @@
+{
+    "layout1": {
+        "slots": {
+            "header": {
+                "sedrs": "sds"
+            },
+            "content": {
+                
+            },
+            "footer": {
+                
+            }
+        }
+    }
+} 
